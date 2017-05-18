@@ -1,0 +1,1644 @@
+{
+  "settings": {
+    "name": "Noah",
+    "currentPage": "cennik.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#5aac98",
+        "secondaryColor": "#754c29",
+        "successColor": "#b08559",
+        "infoColor": "#74a3c7",
+        "warningColor": "#2d2d2d",
+        "dangerColor": "#dfd9ca",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Noto Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 88,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "48px"
+            }
+          },
+          "_customCSS": "h1\n{\n    font-weight: 700;\n}\n.image-size img\n{\n    max-width: 350px;\n}",
+          "_anchor": "header6-1",
+          "_params": {
+            "imageSize": "40",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/drevena-konstrukcia-2000x1328.jpg",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#bdb39a",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-1400x835.png",
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Drevostavby",
+          "text": "Nejde iba o dom. Ide o domov. Pomôžeme vám nájsť dostupnú cestu k vášmu vlastnému domovu. K domovu, ktorý zavonia teplom dreva.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"drevostavba.html\" data-toolbar=\"-mbrBtnMove\">Čo je drevostavba?</a>"
+        },
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#754c29",
+              "border-color": "#754c29"
+            },
+            ".heading-title": {
+              "color": "#754c29"
+            },
+            ".iconbox": {
+              "background-color": "#754c29",
+              "border-color": "#754c29"
+            },
+            ".card-text": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".card-title": {
+              "text-align": "center"
+            },
+            ".heading-title B": {
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_customCSS": ".mbr-iconfont\n{\n    border: none;\n    border-radius: 4px;\n    padding: 2px;\n    width: 33%;\n    height: auto;\n    background: #754c29;\n}\n.card-img a\n{\n    font-size: 300%;\n}\n.row, .mbr-cards-col\n{\n    display: flex;\n    flex-direction: row;\n}\n.card\n{\n    background: #dfd9ca;\n}",
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "_anchor": "features4-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "contentAlign": "center",
+            "iconsBgColor": "#754c29",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1350.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "columns": 3,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "<b>Projekcia, realizácia a inžiniering drevostavieb</b>",
+          "text": "Našim zámerom je poskytnúť Vám ucelený balík služieb. Okrem činností spojených s návrhom a realizáciou drevostavby sa radi postaráme aj o vybavenie všetkých potrebných úradných dokladov.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "house-8",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "drevostavba.html",
+              "size": "",
+              "color": "#7ac673",
+              "newWindow": false
+            }
+          },
+          "title1": "Drevostavba",
+          "text1": "Existuje veľa riešení od tradičných dreveníc až po moderné budovy s progresívnou architektúrou. No nech už ide o akékoľvek riešenie, drevostavby predstavujú&nbsp;jednu z&nbsp;najzdravších, najekologickejších a&nbsp;najkomfortnejších foriem bývania.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "open-bookmark",
+              "family": "icon54",
+              "active": true,
+              "link": "technicke_udaje.html",
+              "size": "",
+              "color": "#7ac673",
+              "newWindow": false
+            }
+          },
+          "title2": "Technické údaje",
+          "text2": "Ponúkame Vám niekoľko rôznych typov konštrukcií a konštrukčných riešení. Ak sa nebudete vedieť rozhodnúť aké riešenie je pre Vás najvhodnejšie radi poradíme pri výbere aj s ohľadom na dostupnosť riešenia.<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "open-box",
+              "family": "icon54",
+              "active": true,
+              "link": "cennik.html",
+              "size": "",
+              "newWindow": false,
+              "color": "#7ac673"
+            }
+          },
+          "title3": "Cenník a služby<br>",
+          "text3": "Našim zámerom je poskytnúť Vám ucelený balík služieb. Okrem činností spojených s návrhom a realizáciou drevostavby sa radi postaráme aj o vybavenie všetkých potrebných úradných dokladov.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-9",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-a",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+        }
+      ]
+    },
+    "drevostavba.html": {
+      "settings": {
+        "title": "Noah - drevostavba"
+      },
+      "components": [
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-b",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-c",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-lightbrown-203x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".heading-title": {
+              "color": "#874e17",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "containerColor1": "#dfd9ca",
+            "containerColor2": "#bdb39a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Drevostavby",
+          "text": "<i>Drevodomy by som najjednoduchšie definoval ako domy z dreva. Existuje mnoho druhov od tradičných dreveníc z guľatiny cez omietnuté domy, ktoré napohľad pripomínajú domy z tehál či pórobetónových tvárnic, až po moderné stavby s progresívnou architektúrou. Drevodomy predstavujú jednu z najzdravších, najekologickejších a najkomfortnejších foriem bývania. Drevodomy predstavujú novú generáciu inteligentného bývania. Keďže drevo je lokálny a obnoviteľný zdroj, stavby z neho sú odpoveďou na trend trvalej udržateľnosti. V súčasnosti sú predstavy o výhodách murovaných domov oproti drevostavbám skôr pocitovou záležitosťou než otázkou technických parametrov. V takýchto stavbách si môžete vychutnávať výnimočný tepelný komfort a úsporu na faktúrach.</i>&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px",
+              "text-align": "right",
+              "color": "#754c29"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Nízkoenergetický dom – NED</b>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_customCSS": "",
+          "_anchor": "content1-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Pojem nizkoenergetický dom je v súčasnosti pomerne dosť zaužívaný a zahŕňa všetky budovy, ktoré sú vzhľadom na energetickú náročnosť úspornejšie v porovnaní s klasickou výstavbou. V slovenskej legislatíve a ani v technických normách neexistuje zatiaľ žiadna definícia nízkoenergetického domu a preto preberáme definície a terminológie z Nemecka či Rakúska.<br></p><p><b>Aké parametra by teda nízkoenergetický dom, respektíve nízkoenergetická stavba mali spĺňať?</b></p><ol><li><span style=\"font-size: 1rem; line-height: 1.7em;\">technicko-technologické&nbsp;</span>parametre</li><li><span style=\"font-size: 1rem; line-height: 1.7em;\">parameter úspornosti</span></li><li><span style=\"font-size: 1rem; line-height: 1.7em;\">parameter reálnej spotreby</span></li></ol><p><span style=\"font-size: 1rem; line-height: 1.7em;\"><b>Šandard nízkoenergetického domu</b> je možné dosiahnuť znížením energetickej náročnosti domu a to kombináciou viacerých technicko-technologických opatrení, ktorých vzájomné fungovanie prispieva k energetickej úspornosti nízkoenergetického domu:</span></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">vhodnou orientáciou domu na pozemku&nbsp;</span><br></li><li>zateplením obvodového plášťa domu<br></li><li>kvalitnými oknami a&nbsp;vstupnými dverami <br></li><li>riadeným vetraním &nbsp;<br></li><li>nízkoteplotným vykurovaním – podlahové resp. stenové <br></li><li>vzduchotesnosťou<br></li><li>použitím alternatívnej technológie výroby tepla - tepelné čerpadlo, solárny kolektor,...</li></ul><p><span style=\"font-size: 1rem; line-height: 1.7em;\">Celková reálna spotreba by nemala presiahnuť 150 &nbsp;kWh/m2 za rok, pričom vykurovanie a TUV by mala z tejto spotreby dosiahnuť približne 80 kWh/m2 a rok.</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px",
+              "text-align": "right",
+              "color": "#754c29"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Energeticky pasívny dom – EPD</b>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px",
+              "text-align": "right",
+              "color": "#754c29"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Výhody drevostavieb</b>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<ul><li>drevo má vynikajúce tepelnoizolačné a akustické vlastnosti</li><li><span style=\"font-size: 1rem; line-height: 1.7em;\">rýchlosť výstavby a najmä možnosť &nbsp;hneď sa nasťahovať (odpadá čas na vysušenie stavby). Dom môže byť hotový v&nbsp;priebehu 3 až 6 mesiacov</span></li><li>celoročná výstavba – vďaka suchým procesom sa môže stavať v&nbsp;ktoromkoľvek ročnom období<br></li><li>viac priestoru vo vnútri domu  - optimálna tepelná izolácia pri pomerne malej hrúbke steny <br></li><li>zdravý prírodný materiál, ktorý dýcha, prirodzene sa vyrovnáva so suchom a&nbsp;vlhkosťou<br></li><li>drevo prináša do domácnosti prepojenie s&nbsp;prírodou a&nbsp;navodzuje pocit harmónie prostredníctvom vône, textúry a&nbsp;celkového pocitu<br></li><li>domy z dreva majú dlhú životnosť, pri správnej starostlivosti sa zachovajú vo výbornom stave viac ako 150 rokov<br></li><li>drevo je obnoviteľný zdroj, jeho spracovanie je 3 x ekologickejšie, ako výroba pálenej tehly<br></li><li>dom sa výrazne rýchlejšie vyhreje (steny nesálajú chlad, nepotrebuje sa naakumulovať- ideálny systém aj &nbsp;pre &nbsp;sezónne chatky)<br></li><li>v prípade potreby &nbsp;jednoduchá a rýchla &nbsp;prispôsobivosť<br></li></ul>"
+        }
+      ]
+    },
+    "cennik.html": {
+      "settings": {
+        "title": "Noah - cenník"
+      },
+      "components": [
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-n",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-o",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px",
+              "color": "#754c29"
+            },
+            "P": {
+              "text-align": "right"
+            },
+            "B": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Cenník</b>",
+          "meta": "je konštrukcia alebo stavebné dielo, kde hlavnú nosnú konštrukciu tvoria prvky vyrobené z dreva. Môže ísť o altánok, pergolu, garáž, záhradný dom a dokonca aj o drevodom.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b>Orientačná cena hrubej stavby sa pohybuje od 300€/m2 podlahovej plochy.</b> Cena domu na kľúč je od 750€/m2 podlahovej plochy domu.<br> <br><b>Cena je individuálna a&nbsp;odvíja sa:</b></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">od poskytovaných služieb,&nbsp;</span></li><li><span style=\"font-size: 1rem; line-height: 1.7em;\">od náročnosti samotného projektu,</span><br></li><li>od spracovania projektovej dokumentácie, <br></li><li>od miesta stavby,<br></li><li>od jednotlivých fáz realizácie.</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px",
+              "text-align": "right",
+              "color": "#754c29"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<b>Poskytované služby</b>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b>Predprojektová príprava:</b><br></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">poradenstvo pri výbere pozemku</span></li><li>geodetické zameranie (výškopis, polohopis)<br></li></ul><b><br></b><p><b>Projektová činnosť:</b></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">architektonická štúdia</span><br></li><li>vizualizácia stavby<br></li><li>projekt pre stavebné povolenie<br></li><li>energetický certifikát<br></li><li>zameranie pôvodného stavu<br></li><li>projekt pre zmenu stavby pred dokončením<br></li><li>projekt skutočného vyhotovenia stavby<br></li><li>realizačný projekt – podrobné riešenie projektu s výkazmi výmer a rozpočtom<br> <br></li></ul><p><b>Inžinierska činnosť:</b><br></p><ul><li>vybavenie úradných rozhodnutí a dokladov - výpis z katastra, zastavovacie podmienky, územné rozhodnutie, stavebné povolenie až po </li><li>kolaudácia stavby<br></li><li>komunikácia a zastupovanie klienta v komunikácii s orgánmi štátnej správy a samosprávy<br></li></ul>"
+        }
+      ]
+    },
+    "kontakt.html": {
+      "settings": {
+        "title": "Noah - kontakt"
+      },
+      "components": [
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-z",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-10",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
+              "height": 128,
+              "alt": "Noah, s.r.o.",
+              "link": "index.html",
+              "title": "Noah, s.r.o.",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+        },
+        {
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "iconsBgColor": "#8b461d",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "<b>Kontakt</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "title1": "Noah s.r.o.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#7b562e"
+            }
+          },
+          "title2": "&nbsp;info@noah.sk<div>+421 907 341 290</div>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "communication-quick-contacts-dialer",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#86461e"
+            }
+          },
+          "title3": "Responsive!",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#8b461d",
+              "border-color": "#8b461d"
+            },
+            ".card-title": {
+              "color": "#754c29"
+            },
+            ".heading-title": {
+              "font-size": "32px",
+              "text-align": "center",
+              "color": "#754c29"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-2f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "formBg": "#fafbfc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formHeader": true
+          },
+          "title": "<b>Kontaktný formulár</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Radi odpovieme na vaše otázky",
+          "form": {
+            "action": "mornar@ucitel.sostpoprad.sk",
+            "alerts": {
+              "success": "Správa bola odoslaná."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "meno a priezvisko*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "telefónne čislo"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "text správy"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Odošli správu</a>",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            },
+            ".heading-title": {
+              "color": "#754c29",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1p",
+          "_params": {
+            "googleMap": {
+              "address": "Bannícka, Poprad",
+              "placeId": "ChIJaRjpaJI6PkcRkQHIqxIEGJ0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        }
+      ]
+    },
+    "technicke_udaje.html": {
+      "settings": {
+        "title": "Noah - technické údaje"
+      },
+      "components": [
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-14",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-15",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_anchor": "content8-1v",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/duk.gif",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>Difúzne uzavretá konštrukcia</b>",
+          "text": "1sadrokartón<br>2 inštalačný rošt + izolácia<br>3 parotesná fólia<br>4 nosná konštrukcia + izolácia<br>5 OSB doska<br>6 izolácia fasády EPS<br>7 omietka<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
+          "_anchor": "content8-1w",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dfd9ca",
+            "bgColorRadio": true,
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dok.gif",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>Difúzne otvorená konštrukcia</b>",
+          "text": "1sadrokartón<br>2 inštalačný rošt + izolácia<br>3 OSB doska<br>4 nosná konštrukcia + izolácia<br>5 parotesná fólia<br>6 drevovláknitá doska<br>7 minerálna izolácia<br>8 omietka<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_anchor": "content8-1x",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<font color=\"#874e17\"><b>Konštrukcia DIFU</b></font><div><font color=\"#874e17\">(nízkoenergetický dom)</font></div>",
+          "text": "1. Systémová difúzna omietka, 7mm<br>2. Fasádna minerálna doska, 140mm<br>3. Drevovláknitá DHF doska, 13mm<br>4. Nosný systém KVH, 120mm<br>5. Minerálna izolácia, 120mm<br>6. Drevoštiepková OSB3 doska, 15mm<br>7. Inštalačný rošt SM, 60mm<br>8. Minerálna izolácia, 60mm<br>9. Sadrokartónová doska, 12,5mm<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
+          "_anchor": "content8-1y",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dfd9ca",
+            "bgColorRadio": true,
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-fasda-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<font color=\"#874e17\"><b>Konštrukcia STANDARD</b></font><div><font color=\"#874e17\">(nízkoenergetický dom)</font></div>",
+          "text": "1. Systémová omietka, 7mm<br>2. Fasádny grafitový polystyrén, 140mm<br>3. Drevoštiepková OSB3 doska, 12mm<br>4. Nosný systém KVH, 120mm<br>5. Minerálna izolácia, 120mm<br>6. Parozábranová fólia<br>7. Inštalačný rošt SM, 60mm<br>8. Minerálna izolácia, 60mm<br>9. Sadrokartónová doska, 12,5mm<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_anchor": "content8-1z",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<font color=\"#874e17\"><b>Konštrukcia DIFU omietka</b></font><div><font color=\"#874e17\">(pasívny dom)</font></div>",
+          "text": "1) Systémová difúzne otvorená omietka, 7mm<br>2) Fasádna drevovláknitá doska, 60mm<br>3) Krabicový nosník, 300mm<br>4) Minerálna izolácia, 300mm<br>5) Drevoštiepková OSB3 doska, 15mm<br>  (vzduchotesne prelepené spoje)<br>6) Inštalačný rošt SM, 60mm<br>7) Minerálna izolácia, 60mm<br>8) Sadrokartónová doska, 12,5mm<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#874e17"
+            }
+          },
+          "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
+          "_anchor": "content8-20",
+          "_params": {
+            "imageSize": "38",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dfd9ca",
+            "bgColorRadio": true,
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-fasda-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<font color=\"#874e17\"><b>Konštrukcia DIFU odvetr. fasáda</b></font>",
+          "text": "1) Fasádny obklad - smrekovec, 19mm<br>2) Odvetraná vzduchová medzera, 40mm<br>3) UV stabilná fasádna fólia<br>4) DHF drevovláknitá doska, 13mm<br>5) Krabicový nosník, 360mm<br>6) Minerálna izolácia, 360mm<br>7) Drevoštiepková OSB3 doska, 15mm<br>   (vzduchotesne prelepené spoje)<br>8) Inštalačný rošt SM, 60mm<br>9) Minerálna izolácia, 60mm<br>10) Sadrokartónová doska, 12,5mm<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        }
+      ]
+    }
+  }
+}
