@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noah",
-    "currentPage": "cennik.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -340,7 +340,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -361,7 +361,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
         }
       ]
     },
@@ -472,7 +472,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -493,7 +493,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
         },
         {
           "_styles": {
@@ -779,7 +779,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -800,7 +800,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
         },
         {
           "_styles": {
@@ -867,7 +867,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#dfd9ca",
             "showMeta": false
           },
           "title": "<b>Poskytované služby</b>",
@@ -882,9 +882,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#dfd9ca"
           },
-          "text": "<p><b>Predprojektová príprava:</b><br></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">poradenstvo pri výbere pozemku</span></li><li>geodetické zameranie (výškopis, polohopis)<br></li></ul><b><br></b><p><b>Projektová činnosť:</b></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">architektonická štúdia</span><br></li><li>vizualizácia stavby<br></li><li>projekt pre stavebné povolenie<br></li><li>energetický certifikát<br></li><li>zameranie pôvodného stavu<br></li><li>projekt pre zmenu stavby pred dokončením<br></li><li>projekt skutočného vyhotovenia stavby<br></li><li>realizačný projekt – podrobné riešenie projektu s výkazmi výmer a rozpočtom<br> <br></li></ul><p><b>Inžinierska činnosť:</b><br></p><ul><li>vybavenie úradných rozhodnutí a dokladov - výpis z katastra, zastavovacie podmienky, územné rozhodnutie, stavebné povolenie až po </li><li>kolaudácia stavby<br></li><li>komunikácia a zastupovanie klienta v komunikácii s orgánmi štátnej správy a samosprávy<br></li></ul>"
+          "text": "<p><b>Predprojektová príprava:</b><br></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">poradenstvo pri výbere pozemku</span></li><li>geodetické zameranie (výškopis, polohopis)<br></li></ul><p><b>Projektová činnosť:</b></p><ul><li><span style=\"font-size: 1rem; line-height: 1.7em;\">architektonická štúdia</span><br></li><li>vizualizácia stavby<br></li><li>projekt pre stavebné povolenie<br></li><li>energetický certifikát<br></li><li>zameranie pôvodného stavu<br></li><li>projekt pre zmenu stavby pred dokončením<br></li><li>projekt skutočného vyhotovenia stavby<br></li><li>realizačný projekt – podrobné riešenie projektu s výkazmi výmer a rozpočtom</li></ul><p><b>Inžinierska činnosť:</b><br></p><ul><li>vybavenie úradných rozhodnutí a dokladov - výpis z katastra, zastavovacie podmienky, územné rozhodnutie, stavebné povolenie až po </li><li>kolaudácia stavby<br></li><li>komunikácia a zastupovanie klienta v komunikácii s orgánmi štátnej správy a samosprávy<br></li></ul>"
         }
       ]
     },
@@ -995,7 +995,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1016,7 +1016,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
         },
         {
           "subtitle1": "Awesome",
@@ -1035,6 +1035,20 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#8b461d",
+              "border-color": "#8b461d"
+            },
+            ".card-title": {
+              "color": "#754c29"
+            },
+            ".heading-title": {
+              "font-size": "32px",
+              "text-align": "center",
+              "color": "#754c29"
+            }
+          },
           "_anchor": "features6-2e",
           "_params": {
             "paddingTop": 1,
@@ -1108,20 +1122,6 @@
               "size": 48,
               "family": "MobiriseIcons"
             }
-          },
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "#8b461d",
-              "border-color": "#8b461d"
-            },
-            ".card-title": {
-              "color": "#754c29"
-            },
-            ".heading-title": {
-              "font-size": "32px",
-              "text-align": "center",
-              "color": "#754c29"
-            }
           }
         },
         {
@@ -1129,6 +1129,15 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            },
+            ".heading-title": {
+              "color": "#754c29",
+              "font-size": "32px"
+            }
+          },
           "_anchor": "form1-2f",
           "_params": {
             "paddingTop": 1,
@@ -1183,16 +1192,7 @@
               }
             }
           },
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Odošli správu</a>",
-          "_styles": {
-            ".form": {
-              "background": "#fafbfc"
-            },
-            ".heading-title": {
-              "color": "#754c29",
-              "font-size": "32px"
-            }
-          }
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Odošli správu</a>"
         },
         {
           "_tags": [
@@ -1318,7 +1318,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1339,7 +1339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
         },
         {
           "_tags": [
@@ -1359,7 +1359,7 @@
           },
           "_anchor": "content8-1v",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "26",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff",
@@ -1373,7 +1373,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/duk.gif",
+              "src": "@PROJECT_PATH@/assets/images/duk-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1409,7 +1409,7 @@
           "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
           "_anchor": "content8-1w",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "23",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#dfd9ca",
@@ -1423,7 +1423,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dok.gif",
+              "src": "@PROJECT_PATH@/assets/images/dok-1400x1680.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1458,7 +1458,7 @@
           },
           "_anchor": "content8-1x",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "45",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff",
@@ -1472,7 +1472,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-1400x1160.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1508,7 +1508,7 @@
           "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
           "_anchor": "content8-1y",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "42",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#dfd9ca",
@@ -1522,7 +1522,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-fasda-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-standard-1400x1219.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1557,7 +1557,7 @@
           },
           "_anchor": "content8-1z",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "45",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff",
@@ -1571,7 +1571,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-omietka-1400x1176.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1607,7 +1607,7 @@
           "_customCSS": "/*.text-md-left\n{\n    background: #999;\n}*/",
           "_anchor": "content8-20",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "45",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#dfd9ca",
@@ -1621,7 +1621,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-fasda-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konstrukcia-difu-fasada-1400x1160.png",
               "link": "",
               "alt": "",
               "title": "",
