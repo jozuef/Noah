@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noah",
-    "currentPage": "index.html",
+    "currentPage": "drevostavba.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -621,13 +621,13 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-27",
+          "_anchor": "content1-2g",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": ""
+          "text": "Energeticky pasívne domy (EPD) môžeme zjednodušene charakterizovať ako domy, ktoré nepotrebujú aktívny vykurovací systém a väčšiu časť potreby tepla čerpajú z vnútorných zdrojov tepla, slnečného žiarenia, okolia - vnútra zeme. Energetická náročnosť pasívneho domu je o 90% nižšia v porovnaní s konvenčnou stavbou rodinného domu.<br><b>Energeticky pasívny dom je budova, v ktorej vnútornú, pocitovo príjemnú teplotu v zime aj v lete dosiahnete bez bežného vykurovacieho systému a klimatizácie, a to len pomocou pasívne získaného tepla zo slnečného žiarenia a doplnkového kúrenia.</b><br>K tomu, samozrejme, potrebujeme vzduchotesný obal domu s dostatočnou tepelnou izoláciou, okná s trojitými sklami a špeciálnym rámom (môžu byť aj otváravé), systém zabezpečujúci pravidelnú výmenu vzduchu a jeho ohrev a trochu prepracovanejšiu architektúru bez tepelných mostov.<br>Potrebu tepla na doohrev interiéru pasvíneho domu stanovili výskumní pracovníci Passivhaus Institutu v nemeckom Darmstadte pod vedením prof. Wolfganga Feista na 15 kWh/m2 za rok. To je o 90% menej ako v bežnom dome postavenom cca do roku 1995!<br><b>Vyjadrené jazykom technikov celková potreba primárnej energie na vykurovanie, prípravu teplej úžitkovej vody a na prevádzku všetkých elektrospotrebičov v energeticky pasívnom dome nepresahuje 120 kWh/m2 za rok!&nbsp;</b>Tak nízku spotrebu energií zabezpečí pasívnemu domu presne vypočítaná tepelná izolácia obvodových stien a strechy, obmedzenie tepelných strát z interiéru domu na minimum, maximálne využitie tepelných ziskov cez presne dimenzované okná a využitie vysokoúčinných systémov riadeného vetrania so spätným získavaním tepla na ohrev privádzaného čerstvého vzduchu.<br>Pre efektívnu funkčnosť energeticky pasívneho domu je mimoriadne dôležitá aj nekompromisne precízna realizácia stavby pri dodržaní všetkých dôležitých princípov, definovaných nemeckým Passivhaus Institutom.<br>"
         },
         {
           "_styles": {
