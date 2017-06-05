@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noah",
-    "currentPage": "kontakt.html",
+    "currentPage": "nastiahnutie.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
@@ -260,7 +260,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -392,7 +392,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -700,7 +700,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -916,7 +916,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -1239,7 +1239,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -1662,13 +1662,13 @@
           "_name": "content3",
           "_anchor": "content3-2r",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgColor": "#fff",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#dfd9ca",
             "showMeta": true
           },
           "title": "<b>Dokumenty na stiahnutie</b>",
-          "meta": "Tu si môžete stiahúť dokumenty ktoré budete potrebovať pri vybavovaní rôznych povolení v súvislosti so stavbou domu.<br>"
+          "meta": "Tu si môžete stiahuť dokumenty, ktoré budete potrebovať pri vybavovaní rôznych povolení v súvislosti so stavbou domu.<br>"
         },
         {
           "_styles": {
@@ -1689,7 +1689,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#754c29",
             "bgColorRadio": false,
             "overlay": true,
@@ -1832,7 +1832,7 @@
           "_anchor": "features10-2l",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "iconsBgColor": "#7b433a",
             "parallax": false,
             "bgImageRadio": false,
@@ -2027,7 +2027,7 @@
           "_anchor": "features10-2n",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "iconsBgColor": "#7b433a",
             "parallax": false,
             "bgImageRadio": false,
@@ -2061,7 +2061,7 @@
               "size": 48
             }
           },
-          "text1": "Žiadosť k malému zdroju znečisťovania ovzdušia.",
+          "text1": "Ohlásenie stavebných úprav a udržiavacích prác.",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -2074,7 +2074,7 @@
               "color": "#875656"
             }
           },
-          "text2": "Ohlásenie stavebných úprav a udržiavacích prác.",
+          "text2": "<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2366,6 +2366,103 @@
             }
           },
           "text2": "Žiadosť o zmenu užívania stavby.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Žiadosť k malému zdroju znečisťovania ovzdušia.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "",
           "media3": {
             "iconFont": {
               "active": true,
