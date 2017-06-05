@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noah",
-    "currentPage": "technicke_udaje.html",
+    "currentPage": "nastiahnutie.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 99,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
@@ -49,6 +49,9 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "48px"
+            },
+            "P": {
+              "font-size": "17px"
             }
           },
           "_customCSS": "h1\n{\n    font-weight: 700;\n}\n.image-size img\n{\n    max-width: 350px;\n}",
@@ -61,17 +64,17 @@
             "containerColor2": "#3adcdc",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/drevena-konstrukcia-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wood-2000x1122.jpg",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.2",
             "overlayColor": "#bdb39a",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": true,
             "showArrow": false
@@ -80,7 +83,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-noah-1400x835.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-emboss-1400x893.png",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -94,7 +97,7 @@
             }
           },
           "title": "Drevostavby",
-          "text": "Nejde iba o dom. Ide o domov. Pomôžeme vám nájsť dostupnú cestu k vášmu vlastnému domovu. K domovu, ktorý zavonia teplom dreva.",
+          "text": "Nejde iba o dom. Ide o domov. Pomôžeme vám nájsť dostupnú cestu k vášmu vlastnému domu. K domu, ktorý zavonia teplom domova.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"drevostavba.html\" data-toolbar=\"-mbrBtnMove\">Čo je drevostavba?</a>"
         },
         {
@@ -350,7 +353,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -361,7 +364,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
         }
       ]
     },
@@ -479,10 +482,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-noah-lightbrown-203x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -493,7 +496,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
         },
         {
           "_styles": {
@@ -801,7 +804,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
         },
         {
           "_styles": {
@@ -1017,7 +1020,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
         },
         {
           "subtitle1": "Awesome",
@@ -1340,7 +1343,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html\">Na stiahnutie</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
         },
         {
           "_tags": [
@@ -1638,6 +1641,719 @@
           "title": "<font color=\"#874e17\"><b>Konštrukcia DIFU odvetr. fasáda</b></font>",
           "text": "1) Fasádny obklad - smrekovec, 19mm<br>2) Odvetraná vzduchová medzera, 40mm<br>3) UV stabilná fasádna fólia<br>4) DHF drevovláknitá doska, 13mm<br>5) Krabicový nosník, 360mm<br>6) Minerálna izolácia, 360mm<br>7) Drevoštiepková OSB3 doska, 15mm<br>   (vzduchotesne prelepené spoje)<br>8) Inštalačný rošt SM, 60mm<br>9) Minerálna izolácia, 60mm<br>10) Sadrokartónová doska, 12,5mm<br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        }
+      ]
+    },
+    "nastiahnutie.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#dfd9ca"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-2h",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#754c29",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Noah s.r.o.<br><br>Email: info@noah.sk<br>+421 907 341 290"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bdb39a"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bdb39a"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bdb39a",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#754c29"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#754c29"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bdb39a"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292008!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#362a0a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bdb39a",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#754c29"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#754c29!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_customCSS": ".navbar\n{\n    position: static;\n}\n.navbar a\n{\n     text-transform: uppercase;\n}",
+          "_anchor": "menu1-2i",
+          "_params": {
+            "bgColor": "#362a0a",
+            "fontSize": "0.8",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#bdb39a",
+            "fontHoverColor": "#754c29",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-noah-white-203x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"drevostavba.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drevostavba</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-f\">Nízkoenergetický dom – NED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-j\">Energeticky pasívny dom – EPD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drevostavba.html#content3-l\">Výhody drevostavieb</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"technicke_udaje.html\" aria-expanded=\"false\">technické údaje</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cennik.html\" aria-expanded=\"false\">cenník</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"nastiahnutie.html\">Na stiahnutie</a></li>"
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Návrh na vydanie kolaudačného rozhodnutia.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "48",
+              "color": "#875656",
+              "newWindow": false
+            }
+          },
+          "text2": "Návrh na vydanie územného rozhodnutia.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Ohlásenie drobnej stavby.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "Ohlásenie jednoduchej stavby.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Žiadosť k malému zdroju znečisťovania ovzdušia.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "Ohlásenie stavebných úprav a udržiavacích prác.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Žiadosť o povolenie odstránenia stavby.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "Žiadosť o povolenie terénnych úprav.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Žiadosť o povolenie zmeny stavby pred dokončením.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "Žiadosť o predľženie platnosti stavebného povolenia.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
+        },
+        {
+          "title1": "Touch!",
+          "subtitle1": "Awesome",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Swipe!",
+          "subtitle2": "Awesome",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Responsive!",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#7b433a",
+              "border-color": "#7b433a"
+            }
+          },
+          "_anchor": "features10-2q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "iconsBgColor": "#7b433a",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/majster%20307/AppData/Local/Mobirise.com/Mobirise/projectData/02_2.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": "2"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48
+            }
+          },
+          "text1": "Žiadosť o pridelenie súpisného čísla.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "download-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 48,
+              "color": "#875656"
+            }
+          },
+          "text2": "Žiadosť o zmenu užívania stavby.",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Mobile-friendliness, latest website blocks and techniques \"out-the-box\""
         }
       ]
     }
