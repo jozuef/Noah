@@ -521,6 +521,9 @@ a:hover {
   font-family: 'Open Sans', sans-serif;
   font-size: 48px;
 }
+#header6-1 P {
+  font-size: 17px;
+}
 #header6-1 h1 {
   font-weight: 700;
 }
@@ -739,10 +742,6 @@ a:hover {
 #content5-1q .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
-}
-#content5-1q .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content5-1q .mbr-table-cell {
   vertical-align: middle;
@@ -1139,4 +1138,105 @@ a:hover {
 }
 #content8-20 B {
   color: #874e17;
+}
+#footer4-2h p {
+  color: #000;
+}
+#footer4-2h P {
+  color: #dfd9ca;
+}
+#menu1-2i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-2i .navbar-toggler {
+  color: #bdb39a;
+}
+#menu1-2i .close-icon::before,
+#menu1-2i .close-icon::after {
+  background-color: #bdb39a;
+}
+#menu1-2i .link,
+#menu1-2i .dropdown-item {
+  color: #bdb39a;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-2i .link {
+  font-size: 0.8rem;
+}
+#menu1-2i .dropdown-item,
+#menu1-2i .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu1-2i .link:hover,
+#menu1-2i .link:focus {
+  color: #754c29;
+}
+#menu1-2i .dropdown-item:hover::before,
+#menu1-2i .dropdown-item:focus::before {
+  background: #754c29;
+}
+#menu1-2i .dropdown-item:hover,
+#menu1-2i .dropdown-item:focus {
+  color: #bdb39a;
+}
+#menu1-2i .link[aria-expanded="true"],
+#menu1-2i .dropdown-menu {
+  background: #362a0a;
+}
+#menu1-2i .nav-dropdown-sm .link:focus,
+#menu1-2i .nav-dropdown-sm .link:hover,
+#menu1-2i .nav-dropdown-sm .dropdown-item:focus,
+#menu1-2i .nav-dropdown-sm .dropdown-item:hover {
+  background: #292008!important;
+}
+#menu1-2i .navbar,
+#menu1-2i .nav-dropdown-sm,
+#menu1-2i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-2i .nav-dropdown-sm .dropdown-menu {
+  background: #362a0a;
+}
+#menu1-2i .bg-color.transparent .link {
+  color: #bdb39a;
+  transition: none;
+}
+#menu1-2i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-2i .bg-color.transparent.opened .link:hover,
+#menu1-2i .bg-color.transparent.opened .link:focus {
+  color: #754c29;
+}
+#menu1-2i .link[aria-expanded="true"],
+#menu1-2i .dropdown-item[aria-expanded="true"] {
+  color: #754c29!important;
+}
+#menu1-2i .navbar {
+  position: static;
+}
+#menu1-2i .navbar a {
+  text-transform: uppercase;
+}
+#features10-2l .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
+}
+#features10-2m .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
+}
+#features10-2n .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
+}
+#features10-2o .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
+}
+#features10-2p .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
+}
+#features10-2q .mbr-iconfont {
+  color: #7b433a;
+  border-color: #7b433a;
 }
