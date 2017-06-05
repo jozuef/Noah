@@ -743,6 +743,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1q .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1q .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1138,6 +1142,13 @@ a:hover {
 }
 #content8-20 B {
   color: #874e17;
+}
+#content3-2r .mbr-section-title,
+#content3-2r .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-2r H1 {
+  font-size: 32px;
 }
 #footer4-2h p {
   color: #000;

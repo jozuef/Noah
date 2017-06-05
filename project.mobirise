@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noah",
-    "currentPage": "nastiahnutie.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 99,
+    "uniqCompNum": 100,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
@@ -1170,7 +1170,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
           "header": "Radi odpovieme na vaše otázky",
           "form": {
-            "action": "mornar@ucitel.sostpoprad.sk",
+            "action": "petrencik@sostpoprad.sk",
             "alerts": {
               "success": "Správa bola odoslaná."
             },
@@ -1192,7 +1192,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "text správy"
+                "customTitle": "text správy*"
               }
             }
           },
@@ -1647,6 +1647,29 @@
     "nastiahnutie.html": {
       "settings": {},
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<b>Dokumenty na stiahnutie</b>",
+          "meta": "Tu si môžete stiahúť dokumenty ktoré budete potrebovať pri vybavovaní rôznych povolení v súvislosti so stavbou domu.<br>"
+        },
         {
           "_styles": {
             "p": {
